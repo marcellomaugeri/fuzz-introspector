@@ -5,7 +5,7 @@ description = "Fuzz Introspector Web API Client"
 authors = [
   {name = "Marcello Maugeri",email = "maray97@hotmail.it"},
 ]
-license = "Apache 2.0"
+license = "Apache-2.0"
 readme = "README.md"
 keywords = ["Fuzz Introspector", "Fuzzing", "API Client"]
 requires-python = ">=3.9"
